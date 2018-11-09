@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-    s.name             = 'OpenCV-Dynamic'
+    s.name             = 'OpenCV-4.0.0-Beta'
     s.version          = '4.0.0-beta'
     s.summary          = 'OpenCV (Computer Vision) for iOS as a dynamic framework.'
 
