@@ -4,11 +4,11 @@ This repository contains [podspec](https://guides.cocoapods.org/syntax/podspec.h
 
 To add it to your project:
 
-`pod 'OpenCV-Dynamic', '~> 3.x'`
+`pod 'OpenCV-4.0.0-beta', '~> 0.1.1'`
 
 Do add it as a dependency to an existing CocoaPod:
 
-`spec.dependency 'OpenCV-Dynamic'`
+`spec.dependency 'OpenCV-4.0.0-beta'`
 
 # Building
 
@@ -30,6 +30,6 @@ Dal Rupnik
 License
 ======
 
-**OpenCV-Dynamic** is available under the **3-clause BSD** license. See [LICENSE](https://github.com/Legoless/OpenCV-Dynamic/blob/master/LICENSE) file for more information.
+**OpenCV-4.0.0-beta** is available under the **3-clause BSD** license. See [LICENSE](https://github.com/SwiftyMicroservices/OpenCV-4.0.0-beta/blob/master/LICENSE) file for more information.
 
 Also respect [OpenCV License](https://github.com/opencv/opencv/blob/master/LICENSE) and conditions.
