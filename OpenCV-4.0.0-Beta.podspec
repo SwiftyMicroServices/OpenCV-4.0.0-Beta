@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'OpenCV-4.0.0-Beta'
-    s.version          = '0.1.0'
+    s.version          = '0.1.1'
     s.summary          = 'OpenCV (Computer Vision) for iOS as a dynamic framework.'
 
     s.description      = <<-DESC
@@ -11,7 +11,7 @@ OpenCV: open source computer vision library
     Dev zone: http://code.opencv.org
     DESC
 
-    s.homepage         = 'https://github.com/legoless/opencv-dynamic'
+    s.homepage         = 'https://github.com/wiftymicroservices/OpenCV-4.0.0-Beta'
     s.license          = { :type => '3-clause BSD', :file => 'LICENSE' }
     s.authors          = 'opencv.org'
     s.source           = { :git => 'https://github.com/swiftymicroservices/OpenCV-4.0.0-Beta.git', :tag => s.version.to_s }
